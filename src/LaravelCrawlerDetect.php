@@ -1,7 +1,5 @@
 <?php namespace Jaybizzle\LaravelCrawlerDetect;
 
-use Illuminate\Support\Facades\Config;
-
 class LaravelCrawlerDetect {
 	
 	protected static $crawlers = [
