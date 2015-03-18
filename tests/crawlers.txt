@@ -1,0 +1,17 @@
+Mozilla/5.0 (compatible; MJ12bot/v1.4.3; http://www.majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; Operabot/2.1)/Nutch-2.1
+Mozilla/5.0 (compatible; SEOkicks-Robot +http://www.seokicks.de/robot.html)
+Mozilla/5.0 (compatible; SEOkicks-Robot; +http://www.seokicks.de/robot.html)
+Mozilla/5.0 (compatible; SMTBot/1.0; +http://www.similartech.com/smtbot)
+Mozilla/5.0 (compatible; spbot/4.0.7; +http://OpenLinkProfiler.org/bot )
+Mozilla/5.0 (compatible; spbot/4.0.9; +http://OpenLinkProfiler.org/bot )
+Mozilla/5.0 (compatible; spbot/4.1.0; +http://OpenLinkProfiler.org/bot )
+Mozilla/5.0 (compatible; uMBot-LN/1.0; mailto: crawling@ubermetrics-technologies.com)
+Mozilla/5.0 (compatible; WBSearchBot/1.1; +http://www.warebay.com/bot.html)
+Mozilla/5.0 (compatible; XoviBot/2.0; +http://www.xovibot.net/)
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+QuerySeekerSpider ( http://queryseeker.com/bot.html )
+rogerbot/1.0 (http://www.seomoz.org/dp/rogerbot, rogerbot-crawler+pr1-crawler-05@seomoz.org)
+rogerbot/1.0 (http://www.seomoz.org/dp/rogerbot, rogerbot-crawler+pr1-crawler-17@seomoz.org)
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+Spiderbot/Nutch-1.7
