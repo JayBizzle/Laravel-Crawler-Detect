@@ -154,7 +154,9 @@ class LaravelCrawlerDetect {
 		"Twitterbot",
 		"OrangeBot",
 		"memorybot",
-		"AdvBot"
+		"AdvBot",
+		"XoviBot",
+		"QuerySeekerSpider"
 	];
 
 	/**
@@ -231,6 +233,7 @@ class LaravelCrawlerDetect {
     public function isCrawler($userAgent = null)
     {
     	$agent = is_null($userAgent) ? $this->userAgent : $userAgent;
-    	return preg_match("/".$this->getRegex()."/i", $agent);
+
+    	return (bool) preg_match("/".$this->getRegex()."/i", $agent);
     }
 }
