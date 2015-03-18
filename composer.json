@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jaybizzle\\": "src/"
+            "Jaybizzle\\LaravelCrawlerDetect\\": "src/"
         }
     },
     "minimum-stability": "stable"
