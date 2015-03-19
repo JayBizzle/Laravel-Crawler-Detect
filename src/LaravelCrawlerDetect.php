@@ -3,13 +3,12 @@
 class LaravelCrawlerDetect {
 	
 	protected static $crawlers = [
-		"googlebot\\/ ",
+		"googlebot\\/",
 		"Googlebot-Mobile",
 		"Googlebot-Image",
 		"Mediapartners-Google ",
 		"bingbot ",
 		"slurp ",
-		"java",
 		"wget",
 		"curl",
 		"Commons-HttpClient",
@@ -119,7 +118,7 @@ class LaravelCrawlerDetect {
 		"toplistbot",
 		"seokicks-",
 		"it2media-",
-		"ip-",
+		"ip-web-crawler",
 		"siteexplorer.",
 		"elisabot",
 		"proximic",
@@ -139,7 +138,6 @@ class LaravelCrawlerDetect {
 		"GrapeshotCrawler",
 		"urlappendbot",
 		"brainobot",
-		"fr-",
 		"binlar",
 		"SimpleCrawler",
 		"SimpleCrawler",
@@ -156,8 +154,14 @@ class LaravelCrawlerDetect {
 		"memorybot",
 		"AdvBot",
 		"XoviBot",
-		"QuerySeekerSpider"
+		"QuerySeekerSpider",
+		"iisbot",
+		"JOC Web Spider",
+		"archive-com",
+		"Sosospider"
 	];
+
+	public $matches = [];
 
 	/**
      * All possible HTTP headers that represent the
