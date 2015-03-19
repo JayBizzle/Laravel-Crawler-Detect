@@ -250,16 +250,17 @@ class LaravelCrawlerDetect {
     {
     	$agent = is_null($userAgent) ? $this->userAgent : $userAgent;
 
-		$pass = preg_match("/".$this->getRegex()."/i", $agent, $matches);
+		$result = preg_match("/".$this->getRegex()."/i", $agent, $matches);
 
 		if($matches) {
 			$this->matches = $matches;
 		}
 
-    	return (bool) $pass;
+    	return (bool) $result;
     }
 
-    public function getMatches() {
+    public function getMatches()
+    {
     	return $this->matches;
     }
 }
