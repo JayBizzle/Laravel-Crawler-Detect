@@ -36,9 +36,18 @@ class UATests extends TestCase
 		$lines = file(__DIR__ . '/crawlers.txt');
 
 		foreach($lines as $line) {
-			//dd(Crawler::isCrawler($line));
 			$test = Crawler::isCrawler($line);
 			$this->assertEquals($test, true, $line);
+		}
+	}
+
+	public function testDevices()
+	{
+		$lines = file(__DIR__ . '/devices.txt');
+
+		foreach($lines as $line) {
+			$test = Crawler::isCrawler($line);
+			$this->assertEquals($test, false, $line);
 		}
 	}
 }

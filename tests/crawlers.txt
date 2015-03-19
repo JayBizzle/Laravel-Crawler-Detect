@@ -34,3 +34,14 @@ rogerbot/1.0 (http://www.seomoz.org/dp/rogerbot, rogerbot-crawler+pr1-crawler-17
 SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
 Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
 Spiderbot/Nutch-1.7
+Mozilla/5.0 (compatible; Gluten Free Crawler/1.0; +http://glutenfreepleasure.com/)
+Mozilla/5.0 (compatible; Dataprovider Site Explorer; http://www.dataprovider.com/)
+Mozilla/5.0 (compatible; EmailMarketingRobot/2.1; +http://www.emailmarketingrobot.com/webmasters/)
+Mozilla/5.0 (compatible; Genieo/1.0 http://www.genieo.com/webfilter.html)
+netEstate NE Crawler (+http://www.website-datenbank.de/)
+Riddler (http://riddler.io/about)
+Pizilla++ ver 2.45
+SEOstats 2.0.9          https://github.com/eyecatchup/SEOstats
+www.integromedb.org/Crawler
+crawler4j (http://code.google.com/p/crawler4j/)
+GermCrawler
