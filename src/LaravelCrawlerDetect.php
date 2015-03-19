@@ -158,7 +158,8 @@ class LaravelCrawlerDetect {
 		"iisbot",
 		"JOC Web Spider",
 		"archive-com",
-		"Sosospider"
+		"Sosospider",
+		'Xenu Link Sleuth'
 	];
 
 	public $matches = [];
