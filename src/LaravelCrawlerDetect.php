@@ -59,7 +59,7 @@ class LaravelCrawlerDetect {
 		"yandex",
 		"purebot ",
 		"Linguee Bot ",
-		"Voyager ",
+		//"Voyager ",
 		"CyberPatrol",
 		"voilabot",
 		"baiduspider",
@@ -74,7 +74,7 @@ class LaravelCrawlerDetect {
 		"linkdex",
 		"ezooms",
 		"dotbot",
-		"Mail.",
+		"Mail\.",
 		"discobot",
 		"heritrix",
 		"findthatfile",
@@ -159,7 +159,18 @@ class LaravelCrawlerDetect {
 		"JOC Web Spider",
 		"archive-com",
 		"Sosospider",
-		'Xenu Link Sleuth'
+		"Xenu Link Sleuth",
+		"Gluten Free Crawler",
+		"dataprovider",
+		"emailmarketingrobot",
+		"Genieo",
+		"Riddler",
+		"SEOstats",
+		"uMBot",
+		"netEstate NE Crawler",
+		"Pizilla",
+		"crawler4j",
+		"GermCrawler"
 	];
 
 	public $matches = [];
