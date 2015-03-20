@@ -28,6 +28,7 @@ class LaravelCrawlerDetect {
 		"webcrawler",
 		"FAST-WebCrawler",
 		"FAST Enterprise Crawler",
+		"FAST Enteprise Crawler",
 		"convera",
 		"biglotron",
 		"grub\.org",
@@ -190,7 +191,7 @@ class LaravelCrawlerDetect {
 		"Charlotte",
 		"ConveraCrawler",
 		"cosmos",
-		"Covario IDS",
+		"Covario-IDS",
 		"DataparkSearch",
 		"DiamondBot",
 		"Discobot",
@@ -329,7 +330,8 @@ class LaravelCrawlerDetect {
 		"Zao",
 		"Zealbot",
 		"zspider",
-		"ZyBorg"
+		"ZyBorg",
+		"slider\.com"
 	];
 
 	public $matches = [];
