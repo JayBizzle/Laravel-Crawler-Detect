@@ -45,3 +45,5 @@ SEOstats 2.0.9          https://github.com/eyecatchup/SEOstats
 www.integromedb.org/Crawler
 crawler4j (http://code.google.com/p/crawler4j/)
 GermCrawler
+LinkWalker/3.0 (http://www.brandprotect.com)
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)

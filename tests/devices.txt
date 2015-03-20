@@ -131,7 +131,6 @@ LG-P705 Mozilla/5.0 (Linux; U; Android 4.1.2; en-gb; LG-P705 Build/JZO54K) Apple
 LG-P710 Mozilla/5.0 (Linux; U; Android 4.1.2; en-gb; LG-P710 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 LG-P880 Mozilla/5.0 (Linux; U; Android 4.1.2; el-gr; LG-P880 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 LG-P990 Mozilla/5.0 (Linux; U; Android 2.3.4; en-gb; LG-P990 Build/GRJ23) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MMS/LG-Android-MMS-V1.0/1.2
-LinkWalker/3.0 (http://www.brandprotect.com)
 MagpieRSS/0.72 (+http://magpierss.sf.net)
 Maui_Browser_Karbonn_K9 (MRE/3.1.00(1536);MAUI/nn_K9NEWM_V0013;BDATE/2013/11/22 13:54;LCD/240320;CHIP/MT6260;KEY/Normal;TOUCH/1;CAMERA/1;SENSOR/0;DEV/Maui_Browser_Karbonn_K9;WAP Browser/MAUI (HTTP PGDL;HTTPS);GMOBI/001;MBOUNCE/002;MOMAGIC/003;INDEX/004;SP
 Microsoft Data Access Internet Publishing Provider Protocol Discovery
@@ -3973,7 +3972,6 @@ Mozilla/5.0 (compatible; StaffsStudentImage; Windows NT 6.3; WOW64) AppleWebKit/
 Mozilla/5.0 (compatible; StaffsStudentImage; Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
 Mozilla/5.0 (compatible; StaffsStudentImage; Windows NT 6.3; WOW64; Trident/7.0; StaffsStudentImage; rv:11.0) like Gecko
 Mozilla/5.0 (compatible; Yahoo Link Preview; https://help.yahoo.com/kb/mail/yahoo-link-preview-SLN23615.html)
-Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
 Mozilla/5.0 (compatible;FW 2.0. 5170.p; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
 Mozilla/5.0 (en-us) AppleWebKit/534.14 (KHTML, like Gecko; Google Wireless Transcoder) Chrome/9.0.597 Safari/534.14
 Mozilla/5.0 (en-us;)
