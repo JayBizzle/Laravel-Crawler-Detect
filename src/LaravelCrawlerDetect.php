@@ -1,6 +1,12 @@
 <?php namespace Jaybizzle\LaravelCrawlerDetect;
 
 class LaravelCrawlerDetect {
+
+	protected $userAgent = null;
+
+	protected $httpHeaders = array();
+
+	protected $matches = [];
 	
 	protected static $crawlers = [
 		"googlebot\\/",
@@ -333,8 +339,6 @@ class LaravelCrawlerDetect {
 		"ZyBorg",
 		"slider\.com"
 	];
-
-	public $matches = [];
 
 	/**
      * All possible HTTP headers that represent the
