@@ -30,7 +30,7 @@ class LaravelCrawlerDetectServiceProvider extends ServiceProvider {
 	{
 		$this->app['LaravelCrawlerDetect'] = $this->app->share(function($app)
 		{
-			return new LaravelCrawlerDetect;
+			return new \Jaybizzle\CrawlerDetect\CrawlerDetect;
 		});
 	}
 

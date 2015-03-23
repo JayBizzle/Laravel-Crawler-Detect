@@ -11,7 +11,8 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.3.0",
+        "jaybizzle/crawler-detect": "dev-master"
     },
     "require-dev": {
         "orchestra/testbench": "3.0.*"
