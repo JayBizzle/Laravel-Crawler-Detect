@@ -6,7 +6,7 @@ Laravel Crawler Detect
 Installation
 ============
 
-Run `composer require jaybizzle/laravel-crawler-detect dev-master` or add `"jaybizzle/laravel-crawler-detect": "dev-master"` to your `composer.json` file
+Run `composer require jaybizzle/laravel-crawler-detect 1.*` or add `"jaybizzle/laravel-crawler-detect": "1.*"` to your `composer.json` file
 
 Add the following to the `providers` array in your `config/app.php` file..
 
