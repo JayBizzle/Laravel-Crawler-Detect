@@ -1,6 +1,6 @@
 <?php
 
-use Jaybizzle\LaravelCrawlerDetect\LaravelCrawlerDetect;
+use Jaybizzle\CrawlerDetect\CrawlerDetect;
 use Orchestra\Testbench\TestCase;
 
 class UATests extends TestCase
@@ -22,7 +22,7 @@ class UATests extends TestCase
 	public function setUp()
 	{
 		parent::setUp();
-		$this->LaravelCrawlerDetect = new LaravelCrawlerDetect;
+		$this->LaravelCrawlerDetect = new CrawlerDetect;
 	}
 
 	protected function getEnvironmentSetUp($app)
