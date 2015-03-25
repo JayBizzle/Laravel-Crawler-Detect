@@ -3971,7 +3971,6 @@ Mozilla/5.0 (compatible; StaffsStudentImage; MSIE 10.0; Windows NT 6.2; WOW64; T
 Mozilla/5.0 (compatible; StaffsStudentImage; Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
 Mozilla/5.0 (compatible; StaffsStudentImage; Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
 Mozilla/5.0 (compatible; StaffsStudentImage; Windows NT 6.3; WOW64; Trident/7.0; StaffsStudentImage; rv:11.0) like Gecko
-Mozilla/5.0 (compatible; Yahoo Link Preview; https://help.yahoo.com/kb/mail/yahoo-link-preview-SLN23615.html)
 Mozilla/5.0 (compatible;FW 2.0. 5170.p; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
 Mozilla/5.0 (en-us) AppleWebKit/534.14 (KHTML, like Gecko; Google Wireless Transcoder) Chrome/9.0.597 Safari/534.14
 Mozilla/5.0 (en-us;)
