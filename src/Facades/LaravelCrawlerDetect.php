@@ -1,14 +1,18 @@
-<?php namespace Jaybizzle\LaravelCrawlerDetect\Facades;
- 
+<?php
+
+namespace Jaybizzle\LaravelCrawlerDetect\Facades;
+
 use Illuminate\Support\Facades\Facade;
- 
-class LaravelCrawlerDetect extends Facade {
- 
-  /**
+
+class LaravelCrawlerDetect extends Facade
+{
+    /**
    * Get the registered name of the component.
    *
    * @return string
    */
-  protected static function getFacadeAccessor() { return 'LaravelCrawlerDetect'; }
- 
+  protected static function getFacadeAccessor()
+  {
+      return 'LaravelCrawlerDetect';
+  }
 }
