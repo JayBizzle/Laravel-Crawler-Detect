@@ -484,3 +484,79 @@ ip-web-crawler.com
 linkdex.com/v2.0
 Xenu Link Sleuth/1.3.8
 Mozilla/5.0 (compatible; Yahoo Link Preview; https://help.yahoo.com/kb/mail/yahoo-link-preview-SLN23615.html)
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/
+Mozilla/5.0 (compatible; Mail.RU_Bot/2.0; +http://go.mail.ru/
+Mozilla/5.0 (compatible; fr-crawler/1.1)
+binlar_2.6.3 binlar2.6.3@unspecified.mail
+binlar_2.6.3 binlar_2.6.3@unspecified.mail
+binlar_2.6.3 larbin2.6.3@unspecified.mail
+binlar_2.6.3 phanendra_kalapala@McAfee.com
+binlar_2.6.3 test@mgmt.mic
+SimpleCrawler/0.1
+SimpleCrawler/0.1
+Livelapbot/0.1
+Twitterbot/0.1
+Twitterbot/1.0
+cXensebot/1.1a
+Mozilla/5.0 (compatible; SMTBot/1.0; +http://www.similartech.com/smtbo)t
+SMTBot (similartech.com/smtbot)
+Mozilla/5.0 (compatible; bnf.fr_bot; +http://www.bnf.fr/fr/outils/a.dl_web_capture_robot.html)
+A6-Indexer
+ADmantX Platform Semantic Analyzer - ADmantX Inc. - www.admantx.com - support@admantx.com
+Mozilla/5.0 (compatible; OrangeBot/2.0; support.orangebot@orange.com
+Mozilla/5.0 (compatible; memorybot/1.21.14 +http://mignify.com/bot.html)
+Mozilla/5.0 (compatible; AdvBot/2.0; +http://advbot.net/bot.html)
+Mozilla/5.0 (compatible; AbiLogicBot/1.0; +http://www.abilogic.com/bot.html)
+Mozilla/5.0 (compatible; AbiLogicBot/1.0; +http://www.abilogic.com)
+Link Valet Online 1.1
+Link Validity Check From: http://www.w3dir.com/cgi-bin (Using: Hot Links SQL by Mrcgiguy.com)
+LinkExaminer/1.01 (Windows)
+Mozilla/5.0 (compatible; LinksManager.com_bot http://linksmanager.com/linkchecker.html)
+Mozilla/5.0 (compatible; LinksManager.com_bot +http://linksmanager.com/linkchecker.html)
+Mojoo Robot (http://www.mojoo.com/)
+Notifixious/LinkChecker (http://notifixio.us)
+online link validator (http://www.dead-links.com/)
+Ploetz + Zeller (http://www.ploetz-zeller.de) Link Validator v1.0 (support@p-und-z.de) for ARIS Business Architect
+InfoWizards Reciprocal Link System PRO - (http://www.infowizards.com)
+REL Link Checker Lite 1.0
+SiteBar/3.3.8 (Bookmark Server; http://sitebar.org/)
+SiteBar/3.3.5 (Bookmark Server; http://sitebar.org/)
+Vivante Link Checker (http://www.vivante.com)
+W3C-checklink/4.5 [4.160] libwww-perl/5.823
+W3C-checklink/4.5 [4.154] libwww-perl/5.823
+W3C-checklink/4.3 [4.42] libwww-perl/5.820
+W3C-checklink/4.3 [4.42] libwww-perl/5.808
+W3C-checklink/4.3 [4.42] libwww-perl/5.805
+W3C-checklink/4.2.1 [4.21] libwww-perl/5.803
+W3C-checklink/4.2 [4.20] libwww-perl/5.803
+W3C-checklink/3.6.2.3 libwww-perl/5.64
+W3C-checklink/2.90 libwww-perl/5.64
+Xenu Link Sleuth 1.2i
+Xenu Link Sleuth 1.2h
+Xenu Link Sleuth 1.2g
+Xenu Link Sleuth 1.2f
+Xenu Link Sleuth 1.2e
+Xenu Link Sleuth 1.2d
+Xenu Link Sleuth 1.2c
+Xenu Link Sleuth 1.2b
+Xenu Link Sleuth/1.3.7
+BUbiNG (+http://law.di.unimi.it/BUbiNG.html)
+Mozilla/5.0 (compatible; Qwantify/2.0n; +https://www.qwant.com/)/*
+Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Applebot/0.1)
+Mozilla/5.0 (TweetmemeBot/4.0; +http://datasift.com/bot.html) Gecko/20100101 Firefox/31.0
+SklikBot/2.0 (sklik@firma.seznam.cz;+http://napoveda.sklik.cz/)
+Mozilla/5.0 (compatible; CrawlBot/1.0.0)
+Mozilla/5.0 (compatible; Seznam screenshot-generator 2.1; +http://fulltext.sblog.cz/screenshot/)
+python-requests/2.6.0 CPython/2.7.3 Linux/3.2.0-4-amd64
+Flamingo_SearchEngine (+http://www.flamingosearch.com/bot)
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.0; trendictionbot0.5.0; trendiction search; http://www.trendiction.de/bot; please let us know of any problems; web at trendiction.com) Gecko/20071127 Firefox/3.0.0.11
+python-requests/1.2.0 CPython/2.7.3 Linux/3.2.0-29-virtual
+WeSEE:Ads/PageBot (http://www.wesee.com/bot/)
+Pingdom.com_bot_version_1.4_(http://www.pingdom.com/)
+Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)
+GigablastOpenSource/1.0
+DuckDuckBot/1.0; (+http://duckduckgo.com/duckduckbot.html)
+Mozilla/5.0 (compatible; Findxbot/1.0; +http://www.findxbot.com)
+Mozilla/5.0 (compatible; SemrushBot/0.98~bl; +http://www.semrush.com/bot.html)
+Mozilla/5.0 (compatible; yoozBot-2.2; http://yooz.ir; info@yooz.ir)
