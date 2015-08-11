@@ -118,7 +118,6 @@ HTC_HD2_T8585 Opera/9.7 (Windows NT 5.1; U; en)
 ICE Browser/5.05 (Java 1.4.0; Windows 2000 5.0 x86)
 iCoreService (unknown version) CFNetwork/520.5.1 Darwin/11.4.2 (x86_64) (MacBookPro9%2C2)
 iTunes/11.1.3 (Macintosh; Intel Mac OS X 10.7) AppleWebKit/534.20.8
-iZSearch.com
 Java/1.6.0_30
 Karbonn Titanium S9/Linux/3.4.5 Android/4.2.2  Release/12.24.2012 Browser/AppleWebKit534.30 Mobile Safari/534.30 System/Android 4.2.2;
 LG-D855/Mozilla/5.0 (Linux; U; Android 5.0; en-gb; LG-D855 Build/LRX21R.A1422018487) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Mobile Safari/537.36
@@ -14982,7 +14981,6 @@ Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0
 Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.65 Safari/537.36
 Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
 Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36
-Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36; SSL-Crawler: http://crawler.dcsec.uni-hannover.de
 Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.114 Safari/537.36
 Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
 Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
@@ -16393,7 +16391,6 @@ Opera/9.80 (X11; Linux x86_64; U; ru) Presto/2.10.289 Version/12.02
 Opera/9.80 (X11; Linux zbov) Presto/2.11.355 Version/12.10
 Pattern/2.6 +http://www.clips.ua.ac.be/pattern
 PB0.6b Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
-python-requests/1.2.0 CPython/2.7.3 Linux/3.2.0-29-virtual
 SAMSUNG GT-S3332 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32840/35.5706; U; en) Presto/2.8.119 Version/11.10
 SAMSUNG-GT-C3303/C3303DDJG4 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
 SAMSUNG-GT-C3312 Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.29390/31.1448; U; en) Presto/2.8.119 Version/11.10
