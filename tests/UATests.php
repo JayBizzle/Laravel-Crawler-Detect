@@ -33,7 +33,7 @@ class UATests extends TestCase
 
     public function testBots()
     {
-        $lines = file(__DIR__.'/crawlers.txt');
+        $lines = file('https://raw.githubusercontent.com/JayBizzle/Crawler-Detect/master/tests/crawlers.txt');
 
         foreach ($lines as $line) {
             $test = Crawler::isCrawler($line);
@@ -43,7 +43,7 @@ class UATests extends TestCase
 
     public function testDevices()
     {
-        $lines = file(__DIR__.'/devices.txt');
+        $lines = file('https://raw.githubusercontent.com/JayBizzle/Crawler-Detect/master/tests/devices.txt');
 
         foreach ($lines as $line) {
             $test = Crawler::isCrawler($line);
