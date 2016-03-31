@@ -1,7 +1,7 @@
 {
     "name": "jaybizzle/laravel-crawler-detect",
     "description": "A Laravel package to detect web crawlers via user agents",
-    "keywords": ["laravel","crawler","spider","bot","detect","user-agent"],
+    "keywords": ["laravel", "spider", "bot", "detect", "user-agent", "crawler", "crawler detect", "crawler detector", "crawlerdetect", "php crawler detect"],
     "homepage": "http://github.com/JayBizzle/Laravel-Crawler-Detect",
     "license": "MIT",
     "authors": [
