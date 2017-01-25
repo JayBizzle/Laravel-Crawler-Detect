@@ -11,8 +11,8 @@ class LaravelCrawlerDetect extends Facade
    *
    * @return string
    */
-  protected static function getFacadeAccessor()
-  {
-      return 'LaravelCrawlerDetect';
-  }
+	protected static function getFacadeAccessor()
+	{
+		return 'LaravelCrawlerDetect';
+	}
 }
