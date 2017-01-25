@@ -30,7 +30,7 @@ class LaravelCrawlerDetectServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app['LaravelCrawlerDetect'] = $this->app->share(function ($app) {
+        $this->app['LaravelCrawlerDetect'] = $this->app->singleton('LaravelCrawlerDetect', function ($app) {
             return new \Jaybizzle\CrawlerDetect\CrawlerDetect();
         });
     }
