@@ -10,7 +10,7 @@ Installation
 
 Run `composer require jaybizzle/laravel-crawler-detect 1.*` or add `"jaybizzle/laravel-crawler-detect": "1.*"` to your `composer.json` file.
 
-The last version compatible with Laravel 4 was v1.0.2 so if you need that, you will have to fix your `composer.json` to that specific version.
+The last version compatible with Laravel 4 was [v1.0.2](https://github.com/JayBizzle/Laravel-Crawler-Detect/tree/v1.0.2) so if you need that, you will have to fix your `composer.json` to that specific version.
 
 Add the following to the `providers` array in your `config/app.php` file..
 
