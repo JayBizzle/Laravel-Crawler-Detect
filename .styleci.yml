@@ -19,7 +19,7 @@ enabled:
  - linefeed
  - list_commas
  - logical_not_operators_with_successor_space
- - long_array_syntax
+ - short_array_syntax
  - lowercase_constants
  - lowercase_keywords
  - method_argument_space
