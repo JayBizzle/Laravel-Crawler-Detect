@@ -1,9 +1,9 @@
 Laravel Crawler Detect
 =======
 [![Build Status](https://img.shields.io/travis/JayBizzle/Laravel-Crawler-Detect/master.svg?style=flat-square)](https://travis-ci.org/JayBizzle/Laravel-Crawler-Detect) [![Total Downloads](https://img.shields.io/packagist/dt/JayBizzle/Laravel-Crawler-Detect.svg?style=flat-square)](https://packagist.org/packages/jaybizzle/laravel-crawler-detect)
-[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/JayBizzle/Laravel-Crawler-Detect.svg?style=flat-square)](https://scrutinizer-ci.com/g/JayBizzle/Laravel-Crawler-Detect/?branch=master) [![Laravel](https://img.shields.io/badge/laravel-5.*-ff69b4.svg?style=flat-square)](https://laravel.com) [![StyleCI](https://styleci.io/repos/32484055/shield)](https://styleci.io/repos/32484055)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/JayBizzle/Laravel-Crawler-Detect.svg?style=flat-square)](https://scrutinizer-ci.com/g/JayBizzle/Laravel-Crawler-Detect/?branch=master) [![StyleCI](https://styleci.io/repos/32484055/shield)](https://styleci.io/repos/32484055)
 
-A Laravel 4/5 wrapper for [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - the web crawler detection library
+A Laravel wrapper for [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - the web crawler detection library
 
 Installation
 ============
