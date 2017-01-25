@@ -42,6 +42,6 @@ class LaravelCrawlerDetectServiceProvider extends ServiceProvider
      */
     public function provides()
     {
-        return [];
+        return array();
     }
 }

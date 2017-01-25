@@ -9,14 +9,14 @@ class UATests extends TestCase
 
     protected function getPackageProviders($app)
     {
-        return ['Jaybizzle\LaravelCrawlerDetect\LaravelCrawlerDetectServiceProvider'];
+        return array('Jaybizzle\LaravelCrawlerDetect\LaravelCrawlerDetectServiceProvider');
     }
 
     protected function getPackageAliases($app)
     {
-        return [
+        return array(
             'Crawler' => 'Jaybizzle\LaravelCrawlerDetect\Facades\LaravelCrawlerDetect',
-        ];
+        );
     }
 
     public function setUp()
