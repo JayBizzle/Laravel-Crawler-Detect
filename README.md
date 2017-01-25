@@ -8,12 +8,14 @@ A Laravel 4/5 wrapper for [CrawlerDetect](https://github.com/JayBizzle/Crawler-D
 Installation
 ============
 
-Run `composer require jaybizzle/laravel-crawler-detect 1.*` or add `"jaybizzle/laravel-crawler-detect": "1.*"` to your `composer.json` file
+Run `composer require jaybizzle/laravel-crawler-detect 1.*` or add `"jaybizzle/laravel-crawler-detect": "1.*"` to your `composer.json` file.
+
+The last version compatible with Laravel 4 was v1.0.2 so if you need that, you will have to fix your `composer.json` to that specific version.
 
 Add the following to the `providers` array in your `config/app.php` file..
 
 ```PHP
-  'Jaybizzle\LaravelCrawlerDetect\LaravelCrawlerDetectServiceProvider',
+  Jaybizzle\LaravelCrawlerDetect\LaravelCrawlerDetectServiceProvider::class,
 ```
 
 ...and the following to your `aliases` array...
