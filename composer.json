@@ -22,5 +22,15 @@
             "Jaybizzle\\LaravelCrawlerDetect\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jaybizzle\\LaravelCrawlerDetect\\LaravelCrawlerDetectServiceProvider"
+            ],
+            "aliases": {
+                "Crawler": "Jaybizzle\\LaravelCrawlerDetect\\Facades\\LaravelCrawlerDetect"
+            }
+        }
+    },
     "minimum-stability": "stable"
 }
