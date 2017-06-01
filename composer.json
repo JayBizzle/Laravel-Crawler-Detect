@@ -15,11 +15,22 @@
         "jaybizzle/crawler-detect": "1.*"
     },
     "require-dev": {
-        "orchestra/testbench": "3.1.*"
+        "orchestra/testbench": "3.1.*",
+        "phpunit/phpunit": "4.*"
     },
     "autoload": {
         "psr-4": {
             "Jaybizzle\\LaravelCrawlerDetect\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jaybizzle\\LaravelCrawlerDetect\\LaravelCrawlerDetectServiceProvider"
+            ],
+            "aliases": {
+                "Crawler": "Jaybizzle\\LaravelCrawlerDetect\\Facades\\LaravelCrawlerDetect"
+            }
         }
     },
     "minimum-stability": "stable"

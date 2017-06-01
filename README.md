@@ -24,6 +24,8 @@ Add the following to the `providers` array in your `config/app.php` file..
   'Crawler'   => 'Jaybizzle\LaravelCrawlerDetect\Facades\LaravelCrawlerDetect',
 ```
 
+Laravel 5.5 uses Package Auto-Discovery, so doesn't require you to manually add the ServiceProvider.
+
 Usage
 ==================
 ```PHP
