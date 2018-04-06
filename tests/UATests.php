@@ -37,7 +37,7 @@ class UATests extends TestCase
 
         foreach ($lines as $line) {
             $test = Crawler::isCrawler($line);
-            $this->assertTrue($test);
+            $this->assertTrue($test, $line);
         }
     }
 
@@ -47,7 +47,7 @@ class UATests extends TestCase
 
         foreach ($lines as $line) {
             $test = Crawler::isCrawler($line);
-            $this->assertFalse($test);
+            $this->assertFalse($test, $line);
         }
     }
 }
