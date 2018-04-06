@@ -21,7 +21,7 @@ Add the following to the `providers` array in your `config/app.php` file..
 ...and the following to your `aliases` array...
 
 ```PHP
-  'Crawler'   => 'Jaybizzle\LaravelCrawlerDetect\Facades\LaravelCrawlerDetect',
+  'Crawler'   => Jaybizzle\LaravelCrawlerDetect\Facades\LaravelCrawlerDetect::class,
 ```
 
 Laravel 5.5 uses Package Auto-Discovery, so doesn't require you to manually add the ServiceProvider.
@@ -29,6 +29,8 @@ Laravel 5.5 uses Package Auto-Discovery, so doesn't require you to manually add 
 Usage
 ==================
 ```PHP
+use Crawler;
+
 // Check current 'visitors' user agent
 if(Crawler::isCrawler()) {
   // true if crawler user agent detected
