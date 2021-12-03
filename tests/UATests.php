@@ -1,12 +1,9 @@
 <?php
 
-use Jaybizzle\CrawlerDetect\CrawlerDetect;
 use Orchestra\Testbench\TestCase;
 
 class UATests extends TestCase
 {
-    protected $LaravelCrawlerDetect;
-
     protected function getPackageProviders($app)
     {
         return ['Jaybizzle\LaravelCrawlerDetect\LaravelCrawlerDetectServiceProvider'];
@@ -17,12 +14,6 @@ class UATests extends TestCase
         return [
             'Crawler' => 'Jaybizzle\LaravelCrawlerDetect\Facades\LaravelCrawlerDetect',
         ];
-    }
-
-    public function setUp()
-    {
-        parent::setUp();
-        $this->LaravelCrawlerDetect = new CrawlerDetect();
     }
 
     protected function getEnvironmentSetUp($app)
