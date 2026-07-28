@@ -54,6 +54,25 @@ public function index(CrawlerDetect $crawlerDetect)
 }
 ```
 
+Or use the `Request` macros, which detect using the current request:
+
+```php
+use Illuminate\Http\Request;
+
+public function index(Request $request)
+{
+    if ($request->isCrawler()) {
+        // Output the name of the bot that matched (if any)
+        echo $request->crawler()->getMatches();
+    }
+
+    // Or pass a user agent string to check
+    if ($request->isCrawler('Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)')) {
+        // ...
+    }
+}
+```
+
 ## Testing
 
 ```bash
